@@ -1,3 +1,4 @@
 Esta es la historia de un Andres que queria aprender programacion
 ahora esta muy feliz porque le esta entendiendo al jale
 Naci en colombia y tengo 24 años y me gusta mucho el queso
+Y qué pasa si añadimos nuevos cambios al archivo?
